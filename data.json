@@ -1,0 +1,52 @@
+[
+    {
+        "orderID": 1,
+        "orderDate":"2021-11-10",
+        "orderItemID":54,
+        "orderItemName":"iphone 13",
+        "orderitemQuantity":1,
+        "orderItemPrice":1500,
+        "customerAddress":"baalback-ras al ain",
+        "customerCity":"baalback",
+        "customerZipCode":1800,
+        "customerEmail":"test@gmail.com"
+    },
+    {
+        "orderID": 2,
+        "orderDate":"2021-11-15",
+        "orderItemID":544,
+        "orderItemName":"iphone 11",
+        "orderitemQuantity":12,
+        "orderItemPrice":12000,
+        "customerAddress":"beirut-hamra-main street",
+        "customerCity":"beirut",
+        "customerZipCode":1103,
+        "customerEmail":"lama@gmail.com"
+
+    },
+    {
+        "orderID": 3,
+        "orderDate":"2021-11-30",
+        "orderItemID":545646,
+        "orderItemName":"iphone 10",
+        "orderitemQuantity":5,
+        "orderItemPrice":500,
+        "customerAddress":"baalback-jabali",
+        "customerCity":"baalback",
+        "customerZipCode":1800,
+        "customerEmail":"testlama@gmail.com"
+    },
+    {
+        "orderID": 4,
+        "orderDate":"2021-11-17",
+        "orderItemID":54,
+        "orderItemName":"iphone 12",
+        "orderitemQuantity":7,
+        "orderItemPrice":700,
+        "customerAddress":"Jounieh-main street",
+        "customerCity":"Jounieh",
+        "customerZipCode":1200,
+        "customerEmail":"test@gmail.com"
+    }
+    
+]
